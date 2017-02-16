@@ -8,7 +8,9 @@
 .border {
     border: 1px solid blue !important;
 }
-
+.image-content > img {
+    max-width: 100px;
+}
 .row {
     width: 100%;       
 }
